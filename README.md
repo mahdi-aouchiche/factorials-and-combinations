@@ -4,7 +4,7 @@ Author: Mahdi Aouchiche (<https://github.com/mahdi-aouchiche/factorials-and-comb
 
 ## Overview
 
-* Most of calculators have a limited memory to calculate over 200 factorial. Using the `long double` data type which has a maximum value of ```
+* Most of calculators have a limited memory to calculate over 200 factorial. Using the `long double` data type which has a maximum value of
 
 ```c++
     numeric_limits<long double>::max() = 1.18973 E+4932
